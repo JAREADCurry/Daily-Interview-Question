@@ -403,14 +403,3 @@ test()
 
 <br/>
 
-
-
-## 联系我
-
-进阶系列文章汇总如下，觉得不错点个 star，欢迎 **加群** 互相学习。
-
-> [https://github.com/yygmind/blog](https://github.com/yygmind/blog)
-
-我是木易杨，公众号「高级前端进阶」作者，跟着我**每周重点攻克一个前端面试重难点**。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
-
-![image](http://resource.muyiy.cn/image/20200123162151.png)
