@@ -1,34 +1,5 @@
 # Daily-Interview-Question
 
-加入「前端面试互助群」学习小组，搜索公众号「高级前端进阶」，关注即可加入！
-
-工作日每天一道大厂前端面试题，一年后再回头，会感谢曾经努力的自己！
-
-[线上版本阅读更流畅，点击阅读](https://muyiy.cn/question/)
-
-<br/>
-
-
-
-[推荐一个不错的前端算法系列，点击查看](https://github.com/sisterAn/JavaScript-Algorithms)
-
-<br/>
-
-
-
-推荐扫码使用微信小程序，除了本项目之外，还囊括了算法题、选择题等多种类型题目和详细解析
-
-记住我们的 Slogan：上下班路上刷一点，半年突击进大厂
-
-
-
-<img src="http://resource.muyiy.cn/image/20200106214930.jpg" height="250px">
-
-<br/>
-
-
-
-
 ## 今日面试题
 
 第 160 题：输出以下代码运行结果，为什么？如果希望每隔 1s 输出一个结果，应该如何改造？注意不可改动 square 方法
